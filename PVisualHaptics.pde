@@ -1,4 +1,4 @@
-class visualHaptics {
+class PVisualHaptics {
   PImage img;
   PImage cursor;
 
