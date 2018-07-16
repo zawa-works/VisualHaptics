@@ -1,4 +1,4 @@
-PVisualHaptics vh = new visualHaptics();
+PVisualHaptics vh = new PVisualHaptics();
 
 int scene = 0;
 
