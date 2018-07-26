@@ -8,7 +8,7 @@ class PVisualHaptics {
   float cursor_x, cursor_y;
 
 
-  visualHaptics() {
+  PVisualHaptics() {
 
     if (index < 0 || index > 2) index =  0;
   }
